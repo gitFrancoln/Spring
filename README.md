@@ -83,7 +83,7 @@ Si tienes alguna pregunta o necesitas más información, no dudes en contactarme
 
 - **Correo Electrónico:** franconunezdev@gmail.com  
 - **GitHub:** [https://github.com/gitFrancoln]
-- **LinkedIn:** [Franco Núñez](https://www.linkedin.com/in/franco-nuñez-4460272b4/)
+- **LinkedIn:** [Franco Nuñez](https://www.linkedin.com/in/franco-nuñez-4460272b4/)
 
 ---
 
